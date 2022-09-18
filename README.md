@@ -9,6 +9,10 @@ The gnenerated ```.html``` file has the following format:
 
 <img src=https://github.com/Doctor-Foxling/HtmlCalendar/blob/master/Image/htmlSample.PNG>
 
+## Walkthrough
+
+The following <a href=https://youtu.be/2yL2qeyzDOA> Video </a> provides a quick walkthrough of the code.
+
 ## Building the Project
 
 Premake5 is used to build the project for ```visual_Studio-2019```. To build the project binaries:
