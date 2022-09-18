@@ -13,9 +13,9 @@ The gnenerated ```.html``` file has the following format:
 
 Premake5 is used to build the project for ```visual_Studio-2019```. To build the project binaries:
 <ul>
-<li>Run the ```GenProjects.bat``` </li>
-<li>The batch file would run premake5.exe using the ```premake5.lua``` script</li> 
-<li>Open the generated ```.sln``` file in Visual_Studio-2019</li>
+<li>Run the <b>GenProjects.bat</b> </li>
+<li>The batch file would run premake5.exe using the <b>premake5.lua</b> script</li> 
+<li>Open the generated <b>.sln</b> file in Visual_Studio-2019</li>
 <li>Build the project</li>
 </ul>
 
