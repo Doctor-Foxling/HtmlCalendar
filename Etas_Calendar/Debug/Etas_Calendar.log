@@ -1,4 +1,0 @@
-﻿  htmlCalendarImpl.cpp
-  pch.cpp
-  CalendarApp.cpp
-LINK : fatal error LNK1104: cannot open file 'Debug\htmlCalendarImpl.obj'

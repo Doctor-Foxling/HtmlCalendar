@@ -1,7 +1,0 @@
-﻿  htmlCalendarImpl.cpp
-C:\Test\calender\Etas_Calendar\Etas_Calendar\src\htmlCalendarImpl.cpp(166,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Test\calender\Etas_Calendar\Etas_Calendar\src\htmlCalendarImpl.cpp(184,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  pch.cpp
-  CalendarApp.cpp
-  Generating Code...
-  Etas_Calendar.vcxproj -> C:\Test\calender\Etas_Calendar\x64\Debug\Etas_Calendar.exe
