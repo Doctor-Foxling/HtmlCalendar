@@ -130,15 +130,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="src\Stylesheet.h" />
-    <ClInclude Include="src\base.h" />
-    <ClInclude Include="src\htmlCalendar.h" />
-    <ClInclude Include="src\htmlCalendarImpl.h" />
+    <ClInclude Include="src\Utility\base.h" />
+    <ClInclude Include="src\Abstract\htmlCalendar.h" />
+    <ClInclude Include="src\Impl\htmlCalendarImpl.h" />
     <ClInclude Include="src\pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\CalendarApp.cpp" />
-    <ClCompile Include="src\htmlCalendarImpl.cpp" />
+    <ClCompile Include="src\Impl\htmlCalendarImpl.cpp" />
     <ClCompile Include="src\pch.cpp">
       <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>
